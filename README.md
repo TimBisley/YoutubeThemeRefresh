@@ -26,4 +26,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits 💻
 
-This extension was created by [Your Name Here](https://github.com/yourusername).
+This extension was created by [Tim Bisley](https://github.com/TimBisley).
